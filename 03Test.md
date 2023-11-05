@@ -92,11 +92,14 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 
 **XIV - Squeeze Theorem**
 1. What is the squeeze theorem?
-2. Find a non zero value for the constant k that makes $f(x) = \begin{cases}
+2. Find a non zero value for the constant k that makes 
+continuous at $x=0$ 
+
+
+$f(x) = \begin{cases}
     \tan(kx) & \text{if } x < 0 
     \\ 
     3x+2kx^2 &\text{if } x ≥ 0
 \end{cases}$ 
-continuous at $x=0$.
 
 
