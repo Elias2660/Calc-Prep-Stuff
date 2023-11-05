@@ -23,7 +23,7 @@
 ### TEST 2
 
 **XV - Position and Velocity**
-1. The accompanying figure on the next page shows the position versus time curve for an elevator that moves upward a distance of 60 m and then discharges its passengers.\
+1. The accompanying figure on the next page shows the position versus time curve for an elevator that moves upward a distance of 60 m and then discharges its passengers. \
 <img src="3TestMaterials/Screenshot 2023-11-05 at 1.09.35 PM.png" width = 150 text-align=center>
    1. Estimate the instantaneous velocity of the elevator at $t = 10$ s.
    2.ketch a velocity versus time curve for the elevator's motion for $0 ≤ t ≤ 20$.
