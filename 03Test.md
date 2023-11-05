@@ -90,9 +90,9 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 2. What makes a function continuous over a point?
 3. What makes a function continuous over an interval?
 
-**XIV - Squeeze Theorem**\
+**XIV - Squeeze Theorem**
 1. What is the squeeze theorem?
 2. Find a non zero value for the constant k that makes <a href="3TestMaterials/CodeCogsEqn.svg" target="_blank">
-  <img width="700" src="3TestMaterials/CodeCogsEqn.svg" />
+  <img  src="3TestMaterials/CodeCogsEqn.svg" />
 </a>
  continuous at $x=0$.
