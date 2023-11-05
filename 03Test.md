@@ -78,7 +78,7 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 
 **X - Limits Algebraically**
 
-1. $\lim_{x \to -1} \frac{x-12x2+x-1}{x+1}$
+1. $\lim_{x \to -1} \frac{2x^2+x-1}{x+1}$
 
 **XI - Indeterminate Limits**
 
@@ -92,7 +92,4 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 
 **XIV - Squeeze Theorem**
 1. What is the squeeze theorem?
-2. Find a non zero value for the constant k that makes <a href="3TestMaterials/CodeCogsEqn.svg" target="_blank">
-  <img  src="3TestMaterials/CodeCogsEqn.svg" />
-</a>
- continuous at $x=0$.
+2. Find a non zero value for the constant k that makes $x = \begin{cases}\tan(kx) & \text{if } x < 0 \\3x+2kx^2 &\text{if } x ≥ 0\end{cases}$ continuous at $x=0$.
