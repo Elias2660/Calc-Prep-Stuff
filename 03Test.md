@@ -1,21 +1,25 @@
-**Prep for Test on 11/9**
+# Prep for Test on 11/9
 
-Topics
 
 ### Test 3
 
-**XXLIV - Differentiation Base/Exponents** \
 **XXLV - Chains and Logs + Exponents**\
 **XXLVII - Inverse Trig**\
 **XIL - Last of Inverse Trig**\
 **XL - Inverse Functions**\
 **XLV L’Hospital’s Rule**
 
-<!-- XXXIII - Logs and Exponents
-What is the derivative of  -->
+**XXLIV - Differentiation Base/Exponents** 
+1. What is the derivative of $y=\ln(3x^5)$
+2. What is the derivative of $y=\ln(\frac {x^2} {x+1})$
+3. What is the derivative of $\csc(x^2)\ln(x^2)$
+4. What is the derivative of $y=\sin^4(\ln(x))$
 
-Residual Topics
+**XXXIII - Logs and Exponents**
 
+
+
+## Residual Topics
 ### TEST 2
 
 **XV - Position and Velocity**
@@ -92,8 +96,6 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 
 **XIV - Squeeze Theorem**
 1. What is the squeeze theorem?
-2. Find a non zero value for the constant k that makes 
-<img src="3TestMaterials/CodeCogsEqn.svg">
-continuous at $x=0$ .
+2. Find a non zero value for the constant k that makes <img src="3TestMaterials/CodeCogsEqn.svg"> continuous at $x=0$.
 
 
