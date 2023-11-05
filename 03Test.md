@@ -1,13 +1,12 @@
 **Prep for Test on 11/9**
 
 Topics
-
-## Test 3
-**XXLIV - Differentiation Base/Exponents**
-**XXLV - Chains and Logs + Exponents**
-**XXLVII - Inverse Trig**
-**XIL - Last of Inverse Trig**
-**XL - Inverse Functions**
+### Test 3
+**XXLIV - Differentiation Base/Exponents** \
+**XXLV - Chains and Logs + Exponents**\
+**XXLVII - Inverse Trig**\
+**XIL - Last of Inverse Trig**\
+**XL - Inverse Functions**\
 **XLV L’Hospital’s Rule**
 
 <!-- XXXIII - Logs and Exponents
@@ -16,7 +15,7 @@ What is the derivative of  -->
 
 
 Residual Topics
-## TEST #2
+### TEST 2
 **XV - Position and Velocity**
 The accompanying figure on the next page shows the position versus time curve for an elevator that moves upward a distance of 60 m and then discharges its passengers.
 Estimate the instantaneous velocity of the elevator at $t = 10$ s.
@@ -42,7 +41,7 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 1. With $f(x) = x^3$, Write an equation of a tangent line at $x = 0$.
 
 **XXIIV - Product and Quotient roles + Trig Derivatives**
-1. Give the Product and Quotient Rules
+1. Give the Product and Quotient Rules.
 2. What are the rules for horizontal and vertical tangent lines, in regards to the derivative curve?
 3. Write out the trig derivatives(sin x, cos x, tan x).
 4. Find the derivative of $f(x) = \frac{(2x + 1)(x-1)}{x+3}$.
@@ -62,7 +61,7 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 **XXXI - More of Differentiability**
 1. Find the second derivative if $x^2+2y^2=9$.
 
-## TEST #1
+### TEST #1
 **VIII. - Limits and Asymptotes**
 1. Given that $\lim_{x \to \infty} f(x) = 3$, $\lim_{x \to \infty} g(x) = -5$, and $\lim_{x \to \infty} h(x) = 0$, find $lim_{x \to \infty} (f(x) + 3g(x))$.
 
