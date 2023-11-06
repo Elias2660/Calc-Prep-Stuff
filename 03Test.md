@@ -181,4 +181,7 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 1.  What is the squeeze theorem?
 2.  Find a non zero value for the constant k that makes ![](3TestMaterials/CodeCogsEqn.svg) continuous at $x=0$.
 
-$$x = \begin{cases}\tan(kx) & \text{if } x < 0 \\ 3x+2kx^2 &\text{if } x ≥ 0\end{cases}$$
+$$x = \begin{cases}
+   a &\text{if } b \\
+   c &\text{if } d
+\end{cases}$$
