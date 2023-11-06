@@ -182,6 +182,6 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 2.  Find a non zero value for the constant k that makes the following function continuous at $x=0$.
 
 $$x = \begin{cases}
-   \tan(kx) &\text{if } x < 0 \\
+   \frac{\tan(kx)}{x} &\text{if } x < 0 \\
    3x+2k^2 &\text{if } x ≥ 0
 \end{cases}$$
