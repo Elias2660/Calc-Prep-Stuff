@@ -102,7 +102,7 @@
 4. What is the derivative of $y=\sin^4(\ln(x))$
 
 **XXXIII - Logs and Exponents**
-1. What is the $\lim_{x \to \infty} {1 + \frac {1} {x}}$
+1. What is the $\lim_{x \to \infty} {(1 + \frac {1} {x})^x}$
 2. Solve for x
    1. $\log_{2} \sqrt{x} = 1$
    2. $\log_{5} 5^{2x}$
@@ -116,6 +116,7 @@
 
 **XV - Position and Velocity**
 1. The accompanying figure on the next page shows the position versus time curve for an elevator that moves upward a distance of 60 m and then discharges its passengers. 
+      
       <img src="3TestMaterials/Screenshot 2023-11-05 at 1.09.35 PM.png" width = 150 display= block margin-left= auto margin-right= auto width= 50%>
 
    1. Estimate the instantaneous velocity of the elevator at $t = 10$ s.
