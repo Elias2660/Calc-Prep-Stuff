@@ -36,6 +36,11 @@ Evaluate the following limits
 21. $\lim_{x \to \infty}{\frac{e^x-e^{-x}}{e^{-x}+1}}=$
 
 22. If 
+$$x = \begin{cases}
+   \frac{\tan(kx)}{x} &\text{if } x < 0 \\
+   3x+2k^2 &\text{if } x ≥ 0
+\end{cases}$$
+
 $$x = \begin{cases} x^2-1 &\text{if } x ≤ 2 \\x+2 &\text{if } x > 2\end{cases}$$
  find $lim_{x\to2}{f(x)}$
 
