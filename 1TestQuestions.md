@@ -1,3 +1,5 @@
+# Questions of Test #1
+
 Use the formal definition of limits to prove that the following are true
 
 1. $\lim_{x \to 4}{x^2 + 3x + 1} = 29$
@@ -11,7 +13,7 @@ Use the formal definition of limits to prove that the following are true
 
 Questions 4 to 7 refer to the function graphed function.
 
-<img src = "3TestMaterials/PXL_20231107_012221300.jpg"  display= block margin-left= auto margin-right= auto width= 50%>
+<img src = "1TestMaterials/PXL_20231107_012221300.jpg"  display= block margin-left= auto margin-right= auto width= 50%>
 
 4. $\lim_{x \to -4^-}{f(x)}=$
 5. $\lim_{x \to -4^+}{f(x)}=$
@@ -53,5 +55,5 @@ $$f(x) = \begin{cases}
 
 24. Determine all values of x where f is discontinious (graphed below). For each such x-value, use the definiton of continuity to very briefly explain why f has a discintinuity there.
 
-<img src = "3TestMaterials/PXL_20231107_012259750 copy.png"  display= block margin-left= auto margin-right= auto width= 50%>
+<img src = "1TestMaterials/PXL_20231107_012259750 copy.png"  display= block margin-left= auto margin-right= auto width= 50%>
 
