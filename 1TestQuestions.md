@@ -45,7 +45,7 @@ $$x = \begin{cases}
 
 23. Find a value of k that makes 
 
-$$x = \begin{cases}\sin(\frac{11\pi}{x}) + 1 &\text{if } x ≥ 6 \\\frac{1}{x}+ k &\text{if } x < 6\end{cases}$$
+$$x = \begin{cases}\sin(\frac{11\pi}{x}) + 1 &\text{if } x ≥ 6 \\ \frac{1}{x}+ k &\text{if } x < 6\end{cases}$$
 
  continuous at $x = 6$. Justify your answer using the definition of continuity.
 
