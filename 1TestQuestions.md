@@ -35,15 +35,13 @@ Evaluate the following limits
 20. $\lim_{x \to \infty}{\ln(frac{1}{x})}=$
 21. $\lim_{x \to \infty}{\frac{e^x-e^{-x}}{e^{-x}+1}}=$
 
-22. If $$x = \begin{cases}
-   x^2-1 &\text{if } x ≤ 2 \\
-   x+2 &\text{if } x > 2
-\end{cases}$$ find $lim_{x\to2}{f(x)}$
+22. If 
+$$x = \begin{cases} x^2-1 &\text{if } x ≤ 2 \\x+2 &\text{if } x > 2\end{cases}$$
+ find $lim_{x\to2}{f(x)}$
 
-23. Find a value of k that makes $$x = \begin{cases}
-   \sin(\frac{11\pi}{x}) + 1 &\text{if } x ≥ 6 \\
-   \frac{1}{x} + k &\text{if } x < 6
-\end{cases}$$ continuous at $x = 6$. Justify your answer using the definition of continuity.
+23. Find a value of k that makes 
+$$x = \begin{cases}\sin(\frac{11\pi}{x}) + 1 &\text{if } x ≥ 6 \\\frac{1}{x}+ k &\text{if } x < 6\end{cases}$$
+ continuous at $x = 6$. Justify your answer using the definition of continuity.
 
 24. Determine all values of x where f is discontinious (graphed below). For each such x-value, use the definiton of continuity to very briefly explain why f has a discintinuity there.
 
