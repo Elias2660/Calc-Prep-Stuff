@@ -14,7 +14,7 @@ Questions 4 to 7 refer to the function graphed function.
 <img src = "3TestMaterials/PXL_20231107_012221300.jpg"  display= block margin-left= auto margin-right= auto width= 50%>
 
 4. $\lim_{x \to -4^-}{f(x)}=$
-5. $\lim{x \to -4^+}{f(x)}=$
+5. $\lim_{x \to -4^+}{f(x)}=$
 6. $\lim_{x \to -1}{f(x)}=$
 7. $\lim_{x \to 4}{f(x)}=$
 
@@ -32,7 +32,7 @@ Evaluate the following limits
 17. $\lim_{x \to 0}{\frac{\sin(6x)}{\sin{\frac{1}{2} x}}}=$
 18. $\lim_{x \to 0}{\frac{x\cos(x)}{\tan(x)}}=$
 19. $\lim_{x \to 0^-}{\frac{\sin^3(x)}{x^4}}=$
-20. $\lim_{x \to \infty}{\ln(frac{1}{x})}=$
+20. $\lim_{x \to \infty}{\ln(\frac{1}{x})}=$
 21. $\lim_{x \to \infty}{\frac{e^x-e^{-x}}{e^{-x}+1}}=$
 
 22. If 
