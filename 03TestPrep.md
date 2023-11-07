@@ -4,7 +4,7 @@
 **LI - 2nd Derivative Test**
 1. Rephrase the second derivative test
 2. Find any relative extrema for the functions 
-   1. $f(x) = |x^2 + 16|$
+   1. $f(x) = |x^4 - 16|$
    2. $f(x) =x^4 -2x^2$. Justify using the second derivative test.
 3. Find the intervals of **(a)** increase, **(b)** decrease, **(c)** concave-up, **(d)** concave-down, and **(e)** inflection points for the function
    $$f(x)=\frac{x-2}{(x^2-x+1)^2}$$
@@ -14,7 +14,6 @@
 1. Find all extema for the following functions
    1. $f'(x) = \ln(\frac{2}{1+x^2})$ 
    2. $f(x) = x^3(x+1)^2$
-2. List all possible extrema
 
 **IL - Relative (Local Extrema) Extrema**
 1.  Rephase the first derivative test 
@@ -25,9 +24,9 @@
 1. Restate the **Intermediate Value Theorem**
 2. Given the following functions, find the intervals of **(a)** increase, **(b)** decrease, **(c)** concave-up, **(d)** concave-down, and **(e)** inflection points. 
    1. $f(x) = 3x^4 -4x^3$
-   2. $f(x) = e^{\frac {-x^2}{2}} − \frac {x^2} 2$
-   3. $f(x) = {\frac {2x} {x^4-2x^2+2}}$
-3. If $f^(5)$ what can we know about the 6th derivative?
+   2. $f(x) = e^{\frac {-x^2}{2}}$
+   3. $f(x) = \tan^{-1}(x^2-1)$
+3. If $f^{(5)}$ is decreasing what can we know about the 6th derivative?
 
 
 
@@ -39,7 +38,7 @@
    1. $\lim_{x \to 0}{\csc x} \cdot \frac{-1}{x}$
    2. $\lim_{x \to 0}{\frac {1}{x} - \frac{1}{e^x-1}}$
    3. $\lim_{x \to \infty}{\ln{x}-\ln(1+x)}$
-   4. *(actually belongs to 46)* $\lim_{x \to \infty}{\ln^{\frac{1}{x}} x}$
+   4. *(actually belongs to 47)* $\lim_{x \to \infty}{(\ln x)^{\frac{1}{x}}}$
 
 
 **XLV - L’Hospital’s Rule**
@@ -47,7 +46,7 @@
 2. Find the limits
    1. $\lim_{x \to 0}{\frac{e^x - 1}{\sin x}}$
    2. $\lim_{x \to 0^+}{\frac{\cot{x}}{\ln{x}}}$
-   3. $\lim_{x \to 0^+}{\frac{\ln{\sin{x}}}{\ln{\tan{x}}}}$
+   3. $\lim_{x \to 0^+}{\frac{\ln[{\sin{x}}]}{\ln[{\tan{x}}]}}$
 
 **XLIV - AP Practice**
 1. See the AP Practice Test Materials [PDF](https://doc-14-9c-prod-00-apps-viewer.googleusercontent.com/viewer2/prod-00/pdf/c9resv5dn82tgtfvdll6irnv020jmb0k/k36bvcq010i5sbfckms464hi7vkkniuf/1699228500000/3/106653468576542089441/APznzabjIm5DdMXpYjiNYzZgMydvBvEeRPkcIcgMTSBU1dxM4ribaksHv1bHFFCJmsO-KgNmktk9pgXgzjcT7XtkjUy-Kc6f0KeWZoEisrn9NmfdHgVSFKy94tnEvXy8-l1AklyKS7JTaXntdGkypWhSmQhdbdf0KTa10Vp6seZrmUkhfFHv1aeyWRPiVJNPxot_988Lib1voc99xg1IfGoBsvIP9i_wtSS7rd7Q3YRq4HQljSsE5s-RdAyy3QTm4T44LVwCrgK_O0OuGCYrG8eGLPPRMU32YWg7BruSvDhXyWoLSx_RxSJ15pUC6eBP59vYydZ9h4IGJFcq1JFx91fhWlFKI7S2Ch4AJD97ANs_BR29RFiYfSAVNGnCPubOtcE-MucZ7XJAMhW1SCEqd16QzA8llXq8WjTtNkKNHOvRT3C2yyHbAXI=?authuser=1&nonce=7vk0a77v2eotm&user=106653468576542089441&hash=m0m7ejib3kpkf30d96lackv61gq1vgh4)
@@ -57,9 +56,9 @@
    |x|7|8|9|10|11|12|
    |----------|----------|----------|----------|----------|----------|----------|
    |f(x)|12|16|11|13|7|9|
-   1. Estimate $\frac{d}{dx}[f^-1(x)]_{x=11}$
-   2. Estimate $\frac{d}{dx}{f^-1(x)}_{x=12}$
-2. For $f(x)=2x^5+3x^3+x$, find $(f^{-1})'(3)$
+   1. Estimate $\frac{d}{dx}[f^{-1}(x)]_{x=11}$
+   2. Estimate $\frac{d}{dx}[f^{-1}(x)]_{x=12}$
+2. For $f(x)=2x^5+3x^3+x$, find $(f^{-1})'(6)$
 
 
 **XXLVII - Inverse Trig**
@@ -73,7 +72,7 @@
    | $\sec^{-1}{x}$ | ||
    | $\csc^{-1}{x}$ | ||
 2. Find the Derivatives
-   1. $y=\sqrt{5x}-5\sqrt{5}+\frac{5}{\sqrt{x}} + \sqrt{5}$
+   1. $y=\sqrt{5x}-5\sqrt{x}+\frac{5}{\sqrt{x}} + \sqrt{5}$
    2. $g(x)=\sqrt{\cot{5x}} + \sec^2{6x}$
    3. $y=\sin^{-1}({\frac{\ln x}{x^3}})$
    4. $g(x)=\frac{cos^{-1}{x}}{\sqrt{x}(x^2+1)}$
@@ -82,7 +81,7 @@
 **XXXVI - Log Differentiation**
 1. Express $3\ln{2} + 4$ as a single term
 2. Find the derivative of $y=({x^3-2x})^{\ln{x}}$
-3. Differentiate $(\cos{x})^{\sin{x}}$
+3. Differentiate $y=(\cos{x})^{\sin{x}}$
 
 
 **XXLV - Chains and Logs + Exponents**
@@ -92,23 +91,24 @@
    3. $y=\ln{|x^2-1|}$
    4. $y=\frac {x^2}{1+\log x}$
    5. $y=x^3 e^x$
-   6. $y=\frac{e^x-e^{-x}}{x^3+e^{-x}}$
-   7. $y=\ln{1-xe^{-x}}$
+   6. $y=\frac{e^x-e^{-x}}{e^x+e^{-x}}$
+   7. $y=\ln(1-xe^{-x})$
 
 **XXLIV - Differentiation Base/Exponents**
-1. What is the derivative of $y=\ln(3x^5)$
-2. What is the derivative of $y=\ln(\frac {x^2} {x+1})$
-3. What is the derivative of $\csc(x^2)\ln(x^2)$
-4. What is the derivative of $y=\sin^4(\ln(x))$
+1. What is the derivative of
+   1.  $y=\ln(3x^5)$
+   2.  $y=\ln(\frac {x} { 1+x^2})$
+   3.  $\csc(x^2)\ln(x^2)$
+   4.  $y=\sin^4(\ln(x))$
 
 **XXXIII - Logs and Exponents**
 1. What is the $\lim_{x \to \infty} {(1 + \frac {1} {x})^x}$
 2. Solve for x
    1. $\log_{2} \sqrt{x} = 1$
-   2. $\log_{5} 5^{2x}$
+   2. $\log_{5} 5^{2x} = 8$
    3. $\ln(\frac{1} {x}) + \ln{2x^3}=\ln{3}$
    4. $2e^{3x}=7$
-3. What is the $\frac {dy} {dx}$ of $\log_{b} {f(x)}$ and $b^x$
+3. What is the $\frac {dy} {dx}$ of $\log_{b} {f(x)}$ and $b^{f(x)}$
 
 ## Residual Topics
 
