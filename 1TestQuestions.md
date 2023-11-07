@@ -38,15 +38,15 @@ Evaluate the following limits
 22. If 
 
 $$x = \begin{cases}
-   \frac{\tan(kx)}{x} &\text{if } x < 0 \\
-   3x+2k^2 &\text{if } x ≥ 0
-\end{cases}$$
-
-$$x = \begin{cases} x^2-1 &\text{if } x ≤ 2 \\x+2 &\text{if } x > 2\end{cases}$$
+    x^2-1 &\text{if } x ≤ 2 \\
+    x+2 &\text{if } x > 2\end{cases}$$
+ 
  find $lim_{x\to2}{f(x)}$
 
 23. Find a value of k that makes 
+
 $$x = \begin{cases}\sin(\frac{11\pi}{x}) + 1 &\text{if } x ≥ 6 \\\frac{1}{x}+ k &\text{if } x < 6\end{cases}$$
+
  continuous at $x = 6$. Justify your answer using the definition of continuity.
 
 24. Determine all values of x where f is discontinious (graphed below). For each such x-value, use the definiton of continuity to very briefly explain why f has a discintinuity there.
