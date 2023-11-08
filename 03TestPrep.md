@@ -125,9 +125,9 @@
 2. What three related important ideas need to be remembered in relation to derivatives?
 
 **XVII - More of f’(a)**
-What is the limit definition of a derivative.
-Write equations for the tangent lines at $f(x) = x-1$ at $x = 5$ and $x = 17$.
-Use generated tangent lines to approximate $x = \sqrt{17}$.
+1. What is the limit definition of a derivative.
+2. Write equations for the tangent lines at $f(x) = \sqrt{x-1}$ at $x = 5$ and $x = 17$.
+3. Use generated tangent lines to approximate $x = \sqrt{17}$.
 
 **XiX - Interpretation of Derivative**
 1. The cost of moving 7 tons of copper ore from a mine is C = f(7) dollars. What is the meaning of $f’(2000) = 100$?
@@ -137,7 +137,7 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 1. What is the difference between the terms _“differentiate”_ and _“derive”_?
 2. What are the conditions for continuity?
 3. What makes a function differentiable?
-4. Name and draw the different types of derivative graphs.
+4. Name and draw the different types of indifferentiable points.
 
 **XXI - Derivative Formulas**
 1. With $f(x) = x^3$, Write an equation of a tangent line at $x = 0$.
@@ -175,8 +175,7 @@ Use generated tangent lines to approximate $x = \sqrt{17}$.
 
 **XII - Continuity**
 1. What are the different types of discontinuities?
-2. What makes a function continuous over a point?
-3. What makes a function continuous over an interval?
+2. What makes a function continuous over an interval?
 
 **XIV - Squeeze Theorem**
 1.  What is the squeeze theorem?
