@@ -3,11 +3,13 @@
     <br><br><br><br><br><br>
 2. Find the coordinates of any inflection points of $y=3x^5+5x^4-7$.
     <br><br><br><br><br><br>
-3. Find the x-value of any etrema in 
+3. Find the x-value of any etrema in
+
     $$x = \begin{cases}
     x^4 -32x+27 &\text{if } x ≥ 0 \\
     (\frac{1}{2}x + 3) &\text{if } x < 0
     \end{cases}$$
+    
     Clearly indicate if they are minima or maxima.
     <br><br><br><br><br><br><br><br><br><br>
 4. If $f(x) = e^{2x}+3e^x$, find $\frac{\delta}{\delta x}[f^-1(x)]|_{x=18}$.
