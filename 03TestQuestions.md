@@ -5,10 +5,10 @@
     <br><br><br><br><br><br>
 3. Find the x-value of any etrema in the equation below. Clearly indicate if they are minima or maxima.
 
-$x = \begin{cases}
+$$x = \begin{cases}
     x^4 -32x+27 &\text{if } x ≥ 0 \\
     (\frac{1}{2}x + 3) &\text{if } x < 0
-\end{cases}$
+\end{cases}$$
 
 
 
