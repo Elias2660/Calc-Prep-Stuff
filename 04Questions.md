@@ -131,7 +131,7 @@ _Lesson_
 
 1. In the figure below, line $l$ is tangent to the graph of $y=\frac{1}{x^2}$ at point $P$, with coordinates $(w, \frac{1}{w^2})$. Point Q has coordinates $(w, 0)$. Line $l$ crosses the x-asis at point $R$, with coordinates $(k,0)$.
 
-    <img src="4TestMaterials/PXL_20231123_203753047.MP.jpg" width = 300 display= block margin-left= auto margin-right= auto>
+   ![Equation problem](4TestMaterials/PXL_20231123_203753047.MP.jpg)
 
    1. Find the value of $k$ when w = 3.
       <br><br><br><br><br><br><br>
@@ -188,7 +188,7 @@ _Homework I got Wrong_
 
 1. Find the x-coordinate of the point on the parabola $y = 1-x^2$, $0<x<1$, where the triangle enclosed by the tangent line at $P$ and the coordinate axes have the smallest area.
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
-2. A trapeziod is inscribed in a semicircle of radius 2 so that one side is along the diameter. Find the maximum possible area. [Hint: Express area in terms of $\theta$]
+2. A trapeziod is inscribed in a semicircle of radius 2 so that one side is along the diameter. Find the maximum possible area. [ Hint: Express area in terms of $\theta$]
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
 
 #### Questions from 62 - Even More Optimizations
