@@ -12,7 +12,7 @@ $$x = \begin{cases}
 
 
 
-<!-- <br><br><br><br><br><br><br><br><br><br> -->
+<br><br><br><br><br><br><br><br><br><br>
 
 4. If $f(x) = e^{2x}+3e^x$, find $\frac{\delta}{\delta x}[f^-1(x)]|_{x=18}$.
     <br><br><br><br><br><br><br><br><br><br>
