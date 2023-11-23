@@ -10,7 +10,8 @@ $x = \begin{cases}
     (\frac{1}{2}x + 3) &\text{if } x < 0
 \end{cases}$
 
-Clearly indicate if they are minima or maxima.
+
+    Clearly indicate if they are minima or maxima.
 
 <br><br><br><br><br><br><br><br><br><br>
 
