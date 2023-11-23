@@ -216,6 +216,7 @@ _Additional Random Worksheet_
 2. Water is stored in a cone shaped reservioir (vertex down). Assuming the water evaporates at a rate proportional to the surface area exporsed to the air, show that the depth of the water will decrease at a constant rate that does not depend on the dimensions of the resevoir.
    <br><br><br><br><br><br><br><br> <br> <br><br><br><br><br><br><br><br><br>
 3. A meteor enters the Earth's atmosphere and burns up at a rate that, at each instant, is proportional to its surface area. Assuming that the meteor is always spherical, show that the radius of the meteor decreases at a constant rate.
+<br><br><br><br><br><br><br><br> <br> <br><br><br><br><br><br><br><br><br>
 
 _Homework I got Wrong_
 
