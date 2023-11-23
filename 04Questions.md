@@ -186,7 +186,8 @@ _Homework I got Wrong_
 
 ##### Questions from 61 - Even More Optimizations
 
-1. Find the x-coordinate of the point on the parabola $y = 1-x^2$, $0<x<1$, where the triangle enclosed by the tangent line at $P$ and the coordinate axes have the smallest area.
+1. Find the x-coordinate of the point on the parabola $y = 1-x^2$, where x is between 0 and 1, exclusive, where the triangle enclosed by the tangent line at $P$ and the coordinate axes have the smallest area.
+
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
 2. A trapeziod is inscribed in a semicircle of radius 2 so that one side is along the diameter. Find the maximum possible area. [ Hint: Express area in terms of $\theta$]
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
