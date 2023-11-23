@@ -5,13 +5,15 @@
     <br><br><br><br><br><br>
 3. Find the x-value of any etrema in
 
-$$x = \begin{cases}
+$x = \begin{cases}
     x^4 -32x+27 &\text{if } x ≥ 0 \\
     (\frac{1}{2}x + 3) &\text{if } x < 0
-\end{cases}$$
+\end{cases}$
 
-    Clearly indicate if they are minima or maxima.
-    <br><br><br><br><br><br><br><br><br><br>
+Clearly indicate if they are minima or maxima.
+
+<br><br><br><br><br><br><br><br><br><br>
+
 4. If $f(x) = e^{2x}+3e^x$, find $\frac{\delta}{\delta x}[f^-1(x)]|_{x=18}$.
     <br><br><br><br><br><br><br><br><br><br>
 5.  Let $f(x) = xe^{-x^2}$.
