@@ -1,16 +1,13 @@
 # Test 4 Questions
 
 ## Test Topics
-
 - L'Hospital
 - Absolute Extrema
 - Related Rates
 - Optimizations
 
 ### 45 - **L'Hospital's Rule**
-
 _Lesson_
-
 1. Restate L'Hospital's Rule
    <br><br><br><br><br><br><br>
 
@@ -58,7 +55,6 @@ _Lesson_
        <br><br><br>
 
 _Homework Questions I Got Wrong_
-
 1. (45) $\lim_{x\to{0^+}}{\cot(x)\over\ln(x)}$
    <br><br><br>
 
@@ -66,9 +62,7 @@ _Homework Questions I Got Wrong_
    <br><br><br>
 
 ### 52 - **Absolute Extrema**
-
 _Lesson_
-
 1. What is the the Extreme Value Theorem
    <br><br><br><br><br><br><br>
    <br><br><br>
@@ -81,7 +75,6 @@ _Lesson_
    <br><br><br><br><br><br><br>
 
 #### Questions from **53** - _More Absolute Extrema_
-
 1. Find the absolute extrema of $f(x) = \ln{|x^2-4|}$ on the interval $[-1,1]$.
    <br><br><br><br><br><br><br><br><br>
 2. How should one approach finding the absolute extrema of a function on an unbounded / closed interval?
@@ -97,7 +90,6 @@ _Lesson_
       <br><br><br><br><br><br><br><br><br>
 
 _Homework I got Wrong_
-
 1. (52) $f(x) = x-2\sin(x)$ on $[-\frac{\pi}{4},\frac{\pi}{2}]$
    <br><br><br><br><br><br><br><br><br>
 
@@ -105,7 +97,6 @@ _Homework I got Wrong_
    <br><br><br><br><br><br><br><br><br>
 
 ### 54 - **Related Rates**
-
 _Lesson_
 
 1. What is the process for solving related rates problems?
@@ -121,14 +112,12 @@ _Lesson_
       <br><br><br><br><br><br><br>
       <br><br><br><br><br><br><br>
 
-3. Questions from **55** - _More Related Rates_
-
-   1. A camera is 3000 feet away from a rocket launching pad. Seconds after launch the rocket is rising at $800 \frac{ft}{sec}$ at the moment it is $4000 ft$ away from the pad. How fast is the elevation angle changing at that moment?
+#### Questions from **55** - _More Related Rates_
+1. A camera is 3000 feet away from a rocket launching pad. Seconds after launch the rocket is rising at $800 \frac{ft}{sec}$ at the moment it is $4000 ft$ away from the pad. How fast is the elevation angle changing at that moment?
       <br><br><br><br><br><br><br>
       <br><br><br><br><br><br><br>
 
 #### Questions from **56** - _Even More Related Rates_
-
 1. In the figure below, line $l$ is tangent to the graph of $y=\frac{1}{x^2}$ at point $P$, with coordinates $(w, \frac{1}{w^2})$. Point Q has coordinates $(w, 0)$. Line $l$ crosses the x-asis at point $R$, with coordinates $(k,0)$.
 
    ![Equation problem](4TestMaterials/PXL_20231123_203753047.MP.jpg)
@@ -166,7 +155,6 @@ _Homework I got Wrong_
       <br><br><br><br><br><br><br>
 
 ### 59 - **Optimizations**
-
 1. What is the general process for solving optimization problems, and how is its applicability different than for other problems.
    <br><br><br><br><br><br><br>
 2. A rectangular garden is to enclosed by a fence. What is the largest possibile area that can be enclosed if only 100 ft of fence is available?
@@ -178,7 +166,6 @@ _Homework I got Wrong_
    <br><br><br><br><br><br><br><br> <br> <br>
 
 #### Questions from 60 - More Optimizations
-
 1. Find the radius and height of the largest cylinder (by volume) that can be incribed on a cone with radius 6in and height 10in.
    <br><br><br><br><br><br><br><br> <br> <br>
 2. Find the point in the curve $y = x^2$ closest to the point (18,0).
