@@ -15,12 +15,11 @@ _Lesson_
    <br><br><br><br><br><br><br>
 
 3. Solve the following problems
-
-   1. $\lim_{x \to \infty}{\frac{\sin x}{x}}$
+   1. $\lim_{x \to 0}{\frac{\sin x}{x}}$
       <br><br><br>
    2. $\lim_{x \to 0}{\frac{1-\cos{x}}{x^2}}$
       <br><br><br>
-   3. $\lim_{x \to 1^-}{\frac{e^{x-1 - 1}}{(x-1)^4}}$
+   3. $\lim_{x \to 1^-}{\frac{e^{x-1} - 1}{(x-1)^4}}$
       <br><br><br>
    4. $\lim_{x \to \infty} {\frac {\frac{1} {x ^{\frac{4}{3}}}}{\sin{\frac{1}{x}}}}$
       <br><br><br>
@@ -41,7 +40,7 @@ _Lesson_
       <br><br><br>
    4. $\lim_{x \to \infty}{(x-\ln(x^2+1))}$
       <br><br><br>
-   5. $\lim_{x \to 1}({\frac{x}{x-1} + \frac{1}{\ln x}})$
+   5. $\lim_{x \to 1}({\frac{x}{x-1} - \frac{1}{\ln x}})$
       <br><br><br>
    6. $\lim_{x\to{0^+}}{x^x}$
       <br><br><br>
@@ -49,7 +48,7 @@ _Lesson_
       <br><br><br>
    8. $\lim_{x\to{0^+}}{(\tan{x})^x}$
       <br><br><br>
-   9. $\lim_{x\to\infty}{(1+1\over x)^x}$
+   9. $\lim_{x\to\infty}{(1+{1\over x})^x}$
       <br><br><br>
    10. $\lim_{x\to{0^+}}{(\ln{x})^x}$
        <br><br><br>
