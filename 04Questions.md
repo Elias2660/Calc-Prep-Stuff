@@ -80,12 +80,12 @@ _Lesson_
    <br><br><br><br><br><br><br><br><br>
 3. Find the absolute extrema of $f(x) = -x^5+3x-9$ on the interval $[-3, 4)$.
    <br><br><br><br><br><br><br><br><br>
-4. Find the absulute extrema over the following intervals
+4. Find the absolute extrema over the following intervals
 
-   1. $f(x) = \frac{x-2} {x+1}$ on $[-1, 5]$
+   1. $f(x) = \frac{x-2} {x+1}$ on $(-1, 5]$
       <br><br><br><br><br><br><br><br><br>
 
-   2. $f(x) = e^{x^{(x^3-3x^2)}}$ on $[0, \infty]$
+   2. $f(x) = e^{x^3-3x^2}$ on $[0, \infty)$
       <br><br><br><br><br><br><br><br><br>
 
 _Homework I got Wrong_
@@ -94,7 +94,9 @@ _Homework I got Wrong_
 
 2. (53) $f(x) = 2x^3-6x+2$ on $[-\infty, \infty]$
    <br><br><br><br><br><br><br><br><br>
-
+3. (52) $f(x) = \frac{x^2 + 1}{x + 1}$ on $[-5, -1]$
+   <br><br><br><br><br><br><br><br><br>
+ 
 ### 54 - **Related Rates**
 _Lesson_
 
