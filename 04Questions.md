@@ -139,7 +139,7 @@ _Lesson_
    2. At the instant when the area of the circle is $25\pi$ square inches, find the rate of the increase in the area enclosed betwen the circle and the square. Include units of measure.
       <br><br><br><br><br><br><br>
 
-3. The radius $r$ of a sphere is increasing at a constant rate of 0.04 centimeters per second. (Volume with radius $r$ is $V = \frac{4}{3} \pi r^2$)/
+3. The radius $r$ of a sphere is increasing at a constant rate of 0.04 centimeters per second. (Volume with radius $r$ is $V = \frac{4}{3} \pi r^3$).
    1. At the time when the radius of the sphere is 10 centimeters, what is the rate of increase in its volume?
       <br><br><br><br><br><br><br>
    2. At the time when the volume of the sphere is $36\pi$ cubic sentimeters, what is the rate of increase of the area of a cross scetion through the center of the sphere.
@@ -150,20 +150,20 @@ _Lesson_
 _Homework I got Wrong_
 
 1. (55) Let $\theta$ (in radians) be an acute angle in a right triangle and let x and y respectively be the length of the adjacent to and opposite $\theta$. Suppose also that x and y vary with time.
-   1. How are $\frac{\delta \theta}{\delta t}$ related?
+   1. How are $\frac{\delta \theta}{\delta t}, \frac{\delta x}{\delta t}$, and $\frac{\delta y}{\delta t}$ related?
       <br><br><br><br><br><br><br>
-   2. At a certain instant, x = 2 and is increasing $1 \frac{unit}{s}$, while y = 2 units and is decreasing at ${1 \over 4} \frac{units}{s}$
+   2. At a certain instant, x = 2 and is increasing $1 \frac{unit}{s}$, while y = 2 units and is decreasing at ${1 \over 4} \frac{units}{s}$. How fast is $\theta$ changing at that instant.
       <br><br><br><br><br><br><br>
 
 ### 59 - **Optimizations**
-1. What is the general process for solving optimization problems, and how is its applicability different than for other problems.
+1. What is the general process for solving optimization problems, and how is its applicability different than from related rates problems.
    <br><br><br><br><br><br><br>
 2. A rectangular garden is to enclosed by a fence. What is the largest possibile area that can be enclosed if only 100 ft of fence is available?
    <br><br><br><br><br><br><br><br> <br> <br>
 3. A lidless box is to be formed by a 16 x 30 in piece of cardboard by cutting out squares of equal size from the corners and bending up the sides. What size squares should be cut out to maximize the volume of the box?
    <br><br><br><br><br><br><br><br> <br> <br>
 
-4. An offshore oil well needs to transfer its crude oil to a refinery that is 8km down the shorline that us 8km down the shoreline. The well is 5km from shore. The cose of laying pipe is $1M/km under water and 500k/km over land. What path should the pipe take to minimize the cost of the pipe?
+4. An offshore oil well needs to transfer its crude oil to a refinery that is 8km down the shoreline. The well is 5km from shore. The cost of laying pipe is $1M/km under water and 500k/km over land. What path should the pipe take to minimize the cost of the pipe?
    <br><br><br><br><br><br><br><br> <br> <br>
 
 #### Questions from 60 - More Optimizations
@@ -186,7 +186,7 @@ _Homework I got Wrong_
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
 2. A hallway five feet wide meets another hallway 7 ft wide to form a corner. What is the length of the longest ladder that can be carred around the house.
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
-3. A plant is used to reach over a fence 8 ft hight to support a wall that is 1 ft behind the fence. What is the length of the shortest plan that can be used?
+3. A plank is used to reach over a fence 8 ft hight to support a wall that is 1 ft behind the fence. What is the length of the shortest plan that can be used?
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
 4. A circular lake is a circle with diameter 2mi. Nancy's training routine begins at point E on the eastern shore of the lake. She jogs along to the north shore to a point p and swims the straight line distance, if any, from point p to point w diametrically opposite E. Nancy swims at a rate of 2mi/hr and jogs at a rate of 8mi/hr. What is (a) the shortest and (b) the greatest amount of time she can take.
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
