@@ -186,7 +186,7 @@ _Homework I got Wrong_
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
 2. A hallway five feet wide meets another hallway 7 ft wide to form a corner. What is the length of the longest ladder that can be carred around the house.
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
-3. A plank is used to reach over a fence 8 ft hight to support a wall that is 1 ft behind the fence. What is the length of the shortest plan that can be used?
+3. A plank is used to reach over a fence 8 ft hight to support a wall that is 1 ft behind the fence. What is the length of the shortest plank that can be used?
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
 4. A circular lake is a circle with diameter 2mi. Nancy's training routine begins at point E on the eastern shore of the lake. She jogs along to the north shore to a point p and swims the straight line distance, if any, from point p to point w diametrically opposite E. Nancy swims at a rate of 2mi/hr and jogs at a rate of 8mi/hr. What is (a) the shortest and (b) the greatest amount of time she can take.
    <br><br><br><br><br><br><br><br> <br> <br><br> <br> <br>
