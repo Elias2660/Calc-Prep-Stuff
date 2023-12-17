@@ -7,6 +7,7 @@
 - 2D Motion
 - Definite Integrals, Approximations and Riemann Sums
 - MVT for Integrals
+- Area Functions
 
 
 ## Mean Value Theorem [for derivatives]
@@ -98,7 +99,7 @@
 2. What are the conditions of over and underestimation for LEFT, RIGHT, TRAP and MID sums?
 <br><br><br><br><br><br>
 
-3. Calculate left, right, midpoint, and trapezoidal sums for $\int_{1}{2} {1 \over x} \delta x$ with n = 4, n = 100, and n = 250.
+3. Calculate left, right, midpoint, and trapezoidal sums for $\int_{1}^{2} {1 \over x} \delta x$ with n = 4, n = 100, and n = 250.
 <br><br><br><br><br><br>
 
 4. Analyze and state the parts and ideas of the integral, along with how to say it correctly.
@@ -110,4 +111,65 @@
 6. Write out the theroems of integrals.
 <br><br><br><br><br><br>
 
-7. Estimate 
+7. The graph of the function $x^3 + 6x^2 + 7x - 2 \cos x$ changes concavity at x =
+<br><br><br><br><br><br>
+
+8. Given the function $f(x) = \ln(2 + \sin(x))$ for $\pi ≤ x ≤ 2 \pi$
+    1. Find the absolute minimum and maximum of this function. Justify your answer.
+    <br><br><br><br><br><br>
+    2. Find the x-coordinate of each inflection point of the graph. Justify your answer.
+    <br><br><br><br><br><br>
+    3. Find the average value of the function over the given interval.
+    <br><br><br><br><br><br>
+
+9. Given the function f(x) which is describe by the table
+    |x|2|3|4|5|6|
+    |---|---|---|---|---|---|
+    |f(x)|4|6|8|10|12|
+
+    1. Approximate $\int_{2}^{8} f(x) \delta x$ using both $\TRAP(4)$ and $\MID(2)$.
+    <br><br><br><br><br><br>
+
+## MVT for Integrals
+1. State the hypothesis and conclusion of the mean value theorem for integrals.
+<br><br><br><br><br><br>
+
+2. Given the table:
+    |f(x) (in gals/hour)|4|-1|3|-3|6|
+    |---|---|---|---|---|---|
+    |x (in hours)|7|9|11|16|21|
+    1. Find the average rate of change of f(x) over the interval [7, 21]. Include units.
+    <br><br><br><br><br><br>
+    2. Estimate average value of f(x) over the interval [7, 21] using $\TRAP(4)$. Include units.
+    <br><br><br><br><br><br>
+
+3. Write + Derive the formula giving the average value of a function over an interval.
+<br><br><br><br><br><br>
+
+## Area Functions
+1. Write out the form of an area function, and why is it represented as such?
+<br><br><br><br><br><br>
+
+2. Giving the following graph and the function $f(x) = \int_{1}^{x} f(t) \delta t$; caculate the following values.
+    <br><br><br><br><br><br>
+
+    1. f(1)
+    <br><br><br>
+    2. f(-4)
+    <br><br><br>
+    3. f(8) 
+    <br><br><br>
+
+
+3. Giving the following graph and the function $f(x) = \int_{2}^{x} \delta t$ find the following values.
+<br><br><br><br><br><br>
+    1. f(2)
+    <br><br><br>
+    2. f(3)
+    <br><br><br>
+    3. f(0)
+    <br><br><br>
+    4. f(-2)  
+    <br><br><br>
+    5. f(5)
+    <br><br><br>
