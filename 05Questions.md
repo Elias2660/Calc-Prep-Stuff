@@ -24,8 +24,8 @@
     2. $y = {1 \over 4} x^3 + 1, [-2, 0]$
     <br><br><br><br><br><br>
 
-4. Let $f(x)=x^{\frac{2}{3}}$, $a = -1$, and $b = 8$. 
-    1. Show that there is no point in [a, b] such that $f^'(c) = \frac{f(b)-f(x)}{b-a}$
+4. Let $f(x)=x^{\frac{2}{3}}$, $a = -1$, and $b = 4$. 
+    1. Show that there is no point in (a, b) such that $f^'(c) = \frac{f(b)-f(x)}{b-a}$
     <br><br><br><br><br><br>
     2. Does this contradict the MVT.
     <br><br><br><br><br><br>
