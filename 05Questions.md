@@ -31,8 +31,8 @@
     <br><br><br><br><br><br>
 
 ## 1D Motion
-1. Given the function of a particle ${1 \over 3}t^3-t^2-3t for t ≥ 0$.
-    2. What direction is the particle moving at t = 1/2?
+1. Given the function of a particle $X(t) = {1 \over 3}t^3-t^2-3t$ for $t ≥ 0$.
+    2. What direction is the particle moving at $t = {1 \over 2}$?
     <br><br><br><br><br><br>
 
     3. Graph the velocity function.
@@ -80,7 +80,7 @@
 5. Write the formula for parametric speed.
 <br><br><br><br><br><br>
 
-6. Given the parametric equations $x(t) = t+3 \sin t; y(t) = 4-3 \cos t$
+6. Given the parametric equations $x(t) = t+3 \sin t; y(t) = 4-3 \cos t$, where t is between $[0,10]$.
     1. Write the three vectors of motion
     <br><br><br><br><br><br>
     2. Find any points where it moves parallel to the x-axis.
