@@ -85,7 +85,7 @@
     <br><br><br><br><br><br>
     2. Find any points where it moves parallel to the x-axis.
     <br><br><br><br><br><br>
-    3. Find the speed one second before it moves parallel to the x-axis.
+    3. Find the speed one second before the fourth time it moves parallel to the x-axis.
     <br><br><br><br><br><br>
     4. Write the equation of the tangent line at t = 4.5
     <br><br><br><br><br><br>
