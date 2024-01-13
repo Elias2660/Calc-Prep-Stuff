@@ -75,7 +75,7 @@
 
    1. $\int_{a}^{b} f(x) \delta x$
       <br /> <br /> <br />
-   2. $\int_{a}^{b} f^' (x) \delta x$
+   2. $\int_{a}^{b} f^{'} (x) \delta x$
       <br /> <br /> <br />
    3. $\int_{a}^{b} f(x) \delta x$
       <br /> <br /> <br />
