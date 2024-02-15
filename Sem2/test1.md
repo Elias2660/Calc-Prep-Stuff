@@ -23,7 +23,7 @@ Lessons 101 - 114
       <br /> <br /> <br /><br /><br />
    2. $\int_{- \infty}^{0} e^x \delta x$
       <br /><br /><br /><br /><br />
-   3. $\int_{1}{5} \frac{1}{x-1} \delta x$
+   3. $\int_{1}^{5} \frac{1}{x-1} \delta x$
       <br /><br /><br /><br /><br />
 3. What is the method for solving these types of problems?
    <br /><br /><br /><br /><br /><br />
@@ -33,10 +33,10 @@ Lessons 101 - 114
    1. $\int_{0}^{1} \frac{\delta x}{\sqrt{1-x}}$
       <br /><br /><br /><br />
 
-   2. $\int_{- \infty}^{0} \frac{\delta x}{(2x-1)}^3$
+   2. $\int_{- \infty}^{0} \frac{\delta x}{(2x-1)^3}$
       <br /><br /><br /><br />
 
-   3. $\int_{-e}^{\infty} \frac{\delta x}{x \ln 3x}$
+   3. $\int_{e}^{\infty} \frac{\delta x}{x \ln^3{x}}$
       <br /><br /><br /><br />
 
    4. $\int_{- \infty}^{\infty} \frac{x}{(x^2+3)^2} \delta x$
@@ -49,19 +49,19 @@ Lessons 101 - 114
 
 2. Solve the following problems:
 
-   1. $\frac{\delta}{\delta x} \int_{\pi}^{3x }sin(t) \delta t$
+   1. $\frac{\delta}{\delta t} \int_{\pi}^{3x }sin(t) \delta t$
       <br /><br /><br /><br />
 
-   2. $\frac{\delta }{\delta x} \int_{x}^{x^3}  cos(2t+4) \delta t$
+   2. $\frac{\delta }{\delta t} \int_{x}^{x^3}  cos(2t+4) \delta t$
       <br /><br /><br /><br />
 
-   3. $\frac{\delta}{\delta x} \int_{ln(x)}^{2x^3} 3t-5 \delta t$
+   3. $\frac{\delta}{\delta t} \int_{ln(x)}^{2x^3} 3t-5 \delta t$
       <br /><br /><br /><br />
 
-3. If f(x) is the antiderivative of $sin(t^2)$, and $f(0) =2$, find $f(3)$
+3. If $f(x)$ is the antiderivative of $sin(t^2)$, and $f(0) =2$, find $f(3)$
    <br /><br /><br /><br /><br />
 
-4. If g(x) is an antiderivate of $5e^{x^2}$, g(2) = 11, find g(1).
+4. If $g(x)$ is an antiderivative of $5e^{x^2}$, $g(2) = 11$, find $g(1)$.
    <br /><br /><br /><br /><br />
 
 5. Review + Redo the AP Questions below (at least 1), so you get a good understanding of expression:
