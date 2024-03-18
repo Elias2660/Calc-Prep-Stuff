@@ -93,8 +93,10 @@ Lessons 101 - 114
    <br /><br /><br /><br /><br /><br />
 
 5. The base of a region is a semicircle with radius 2. Each cross-section prependicular to the x-axis is a rectangle whose height is twice its base. Find its volume.
+   <br /><br /><br /><br /><br /><br />
 
 6. Region => $y=x^2, y=8-x^2$, cross sections perpendicular to the x-axis are equilateral triangles
+   <br /><br /><br /><br /><br /><br />
 
 7. Review the AP questions here too, I got multiple wrong, so it would be a good refresher
    <br /><br /><br /><br /><br /><br />
