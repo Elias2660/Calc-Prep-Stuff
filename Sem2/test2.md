@@ -1,5 +1,7 @@
 # Preparation for Test #2
 
+PS: Sorry for the things printing wierdly, I'm still learning how to use markdown and github rendering sucks.
+
 - Solving Differential Equations (DES)
 - Euler’s Method Approximation
 - Slope Field
