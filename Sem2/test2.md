@@ -65,6 +65,38 @@
 
 ### The Logistics Equation
 
+1. What is the general form of the logistic differential equation. What are common pitfalls relating to te logistic differential equation.
+   <br> <br> <br> <br> <br> <br> <br>
+
+2. $\frac{dP}{dt} = 2P(10-P)$. What is the population when it is growing the most rapidly.
+   <br> <br> <br> <br> <br> <br> <br>
+
+3. Solve $\frac{dP}{dt} = 3p(5-{P\over 2})$ given $\P_{0} = 8$.
+   <br> <br> <br> <br> <br> <br> <br>
+4. Sketch the graph of the three following given that they are solutions to logistic equations.
+
+   1. $P = \frac{15000}{1+49e^{-12t}}$
+      <br><br><br><br><br><br><br>
+   2. $P = \frac{15000}{1+.5e^{-12t}}$
+      <br><br><br><br><br><br><br>
+   3. $P=\frac{60000}{4-e^{-12t}}$
+      <br><br><br><br><br><br><br>
+
+5. What is the only types of questions that a logistic equation must be solved for, and how would you find the other parts of the equation without solving for it?
+   <br><br><br><br><br><br><br><br>
+
+
+
 ### Numberical Patterns, Defining Sequences, and Sigma Notation
 
-###
+### Monotomic Sequences
+
+### Partial Sums
+
+### Infinite Series
+
+### Divergence and Integral Test
+
+### P-Series
+
+### Limit Comparison Test
