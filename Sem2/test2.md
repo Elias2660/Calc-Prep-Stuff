@@ -85,7 +85,8 @@
 5. What is the only types of questions that a logistic equation must be solved for, and how would you find the other parts of the equation without solving for it?
    <br><br><br><br><br><br><br><br>
 
-
+6. Find when the population is growing the highest given the function $\frac{dp}{dt} = 24P-6P^2$, P(0) = 1.
+   <br><br><br><br><br><br><br><br>
 
 ### Numberical Patterns, Defining Sequences, and Sigma Notation
 
