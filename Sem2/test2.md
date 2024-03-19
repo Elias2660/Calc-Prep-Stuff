@@ -54,9 +54,17 @@
 
 ### Real World DES
 
-1. What is Newton's Law of Cooling?
+1. What is Newton's Law of Cooling? Show what is it is and what each variable means, along with how to solve it.
+   <br> <br><br> <br><br> <br><br> <br>
+
+2. The half life of hydrocodone Bitartrate in the body is 3.8 hours and the typical dose is 10mg. The quantity of the drug decreases at a rate proportional to the amount left in the body. How much is left after 12 hours?
+   <br> <br><br> <br><br> <br><br> <br>
+
+3. The normal temperature of a human body is 37 degress Celsius. A detective finds a murder victim at 4pm and notes that the body's temperature is 28 degress celsius , and that the air temperature was 20 degress celsius. Two hours later, the body's temperature was 24 degrees celsius.When did the murder occcur
    <br> <br><br> <br><br> <br><br> <br>
 
 ### The Logistics Equation
 
-### Numerical Patterns
+### Numberical Patterns, Defining Sequences, and Sigma Notation
+
+###
