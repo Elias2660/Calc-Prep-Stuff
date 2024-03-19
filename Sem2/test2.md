@@ -90,14 +90,115 @@
 
 ### Numberical Patterns, Defining Sequences, and Sigma Notation
 
+1. Find the pattern given n = 0 and n = 1 for the sequence $1/3 - 1 + 3/2 - 9/6 + 27/24 - 81/120$
+   <br><br><br><br><br><br><br><br>
+
+2. What is the difference between a sequence and a series?
+   <br><br><br><br><br><br><br><br>
+
+3. List the first five terms of the sequence: ${\frac{1}{2^{n-1}}}_{n=1}^{\infty}$.
+   <br><br><br><br><br><br><br><br>
+
+4. What is the criteria for a sequence to converge, and does the sequence $\frac{n}{2n+1}$ converge through this idea?
+   <br><br><br><br><br><br><br><br>
+
+5. What is the $\lim_{x \to 0}{(1+\frac{1}{x})^x}$?
+   <br><br><br><br>
+
+6. What causes an alternating sequence to converge, and does the sequence $a_{n} = 1/2,1/3,1/4,1/9,1/8,1/27,1/16$ converge through this way?
+   <br><br><br><br><br><br><br><br>
+
 ### Monotomic Sequences
+
+1. What is the definition of a monotonic sequence? What are the criteria for strictly increasing, stricly decrasing, increasing, and decreasing sequences?
+   <br><br><br><br><br><br><br><br>
+
+2. What are techniques for establishing monotinicity?
+   <br><br><br><br><br><br><br><br><br><br><br><br>
+
+3. How does one show convergence of a sequence?
+   <br><br><br><br><br><br><br><br>
+
+4. What are some tips to finding the upper and lower bound of a sequence?
+   <br><br><br><br><br><br><br><br>
+
+5. Show the sequences are monotomic and bounded, and thus converge:
+
+   1. $a_{n} = \frac{3n-1}{4n+5}$
+      <br><br><br><br><br><br><br><br>
+
+   2. $a_{n} = \frac{2n}{1+2^n}$
+      <br><br><br><br><br><br><br><br>`
 
 ### Partial Sums
 
+1. What is a partial sum?
+   <br><br><br><br><br><br><br><br>
+
+1. When somebody takes a 250mg pill every 6hours, and 86% of that is eliminated every 6hrs, what is the largest amount of the drug possible in the body?
+   <br><br><br><br><br><br><br><br>
+
 ### Infinite Series
 
-### Divergence and Integral Test
+1. What is the definition of an infinite series of constants? What is the correction notation for it to converge or diverge.
+   <br><br><br><br><br><br><br><br>
+
+**Types of Series**
+
+1. #### Geometric Series
+   1. What is the form of a geometric series?
+      <br><br><br><br><br><br><br><br>
+   2. What is the formula for the sum of a geometric series?
+      <br><br><br><br><br><br><br><br>
+   3. Determine if the series converges or diverges, and if possible, find the sum of the series: $\sum_{k=1}^{\infty}{(-3\over 4)}^{k-1}$. Justify your answer.
+      <br><br><br><br><br><br><br><br>
+2. #### Telescoping Series
+   1. What is a telescoping series?
+      <br><br><br><br><br><br><br><br>
+   2. How does one solve a telescoping series?
+      <br><br><br><br><br><br><br><br>
+   3. Determine if the series converges or diverges, and if possible, find the sum of the series: $\sum_{k=1}^{\infty} {1 \over 9k^2 + 3k - 2}$. Justify your answer.
+      <br><br><br><br><br><br><br><br>
+
+3. #### The Harmonic Series
+   1. What is the harmonic series, what what does it converge to?
+      <br><br><br><br><br><br><br><br>
+
+   2. Removal of a finite # of terms from a series and multipying by a constant does not what?
+      <br><br><br><br><br><br><br><br>
+
+
+### Divergence (n-th term test)
+
+1. What is the divergence test and when is it the best to use it?
+   <br><br><br><br><br><br><br><br>
+
+2. Determine if the series converges or diverges, and if possible, find the sum of the series: $\sum_{k=1}^{\infty} {1 \over k+1}$. Justify your answer.
+   <br><br><br><br><br><br><br><br>
+
+### Integral Test
+
+1. What is the integral test and when is it the best to use?
+   <br><br><br><br><br><br><br><br>
+
+2. Determine if the series converges or diverges, and if possible, find the sum of the series: $\sum_{k=1}^{\infty} {1 \over k^2 + 1}$. Justify your answer.
+   <br><br><br><br><br><br><br><br>`
 
 ### P-Series
 
+1. What is a P-Series? 
+   <br><br><br><br><br><br><br><br>
+
+2. Determine if the series converges or diverges, and if possible, find the sum of the series: $\sum_{k=1}^{\infty} {1 \over k^3}$. Justify your answer.
+   <br><br><br><br><br><br><br><br>
+
+3. Determine if the series converges or diverges, and if possible, find the sum of the series: $\sum_{k=1}^{\infty} {1 \over n} * {1 \over n^{0.001}}$ . Justify your answer.
+   <br><br><br><br><br><br><br><br>
+
 ### Limit Comparison Test
+
+1. What is the limit comparison test and when is it the best to use?
+   <br><br><br><br><br><br><br><br>
+
+2. Determine if the series converges or diverges, and if possible, find the sum of the series: $\sum_{k=1}^{\infty} {\frac{4k^2-2k+6}{8k^7 + k - 8}}$. Justify your answer.
+   <br><br><br><br><br><br><br><br>
