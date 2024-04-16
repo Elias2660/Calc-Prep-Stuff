@@ -51,7 +51,7 @@ For each of the following tests, write how they're used and use an example probl
       <br><br><br><br><br><br><br>
    3. $\sum_{k = 1}^{\infty} \frac{4}{2 + 3^kk}$
       <br><br><br><br><br><br><br>
-3. Show that $\sum_{k = 1}^{\infty} \frac{1}{5k^2}$ converges.
+3. Show that $\sum_{k = 1}^{\infty} \frac{1}{5^{k^2}}$ converges.
    <br><br><br><br><br><br><br>
 
 4. What are some applicaitons for the comparison test, and is it best to use?
