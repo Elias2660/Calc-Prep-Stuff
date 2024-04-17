@@ -102,7 +102,7 @@ For each of the following tests, write how they're used and use an example probl
 
    1. $\sum_{k = 1}^{\infty} \frac{(-1)^{k + 1}}{k^2}$, n = 7
       <br><br><br><br><br><br><br>
-   2. $3 \sum{k = 1}^{\infty} \frac{(-1)^{n + 1}}{2^{n + 1}} $
+   2. $3 \sum_{k = 1}^{\infty} \frac{(-1)^{n + 1}}{2^{n + 1}} $
       <br><br><br><br><br><br><br>
    3. $\sum_{n = 1}^{\infty} \frac{(-1)^{n + 1}}{n}$, n = 5
       <br><br><br><br><br><br><br>
