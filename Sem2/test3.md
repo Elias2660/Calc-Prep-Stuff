@@ -107,7 +107,7 @@ For each of the following tests, write how they're used and use an example probl
    3. $\sum_{n = 1}^{\infty} \frac{(-1)^{n + 1}}{n}$, n = 5
       <br><br><br><br><br><br><br>
 
-3. How many terms are neded to approximate $\sum_{n = 1}^{\infty} \frac{(-1)^{n + 1}}{n^2}$
+3. How many terms are neded to approximate $\sum_{n = 1}^{\infty} \frac{(-1)^{n + 1}}{n^2}$ to three decimal places.
    <br><br><br><br><br><br><br>
 
 ### Absolute and Conditional Convergence
